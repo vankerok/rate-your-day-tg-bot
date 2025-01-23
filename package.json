@@ -1,0 +1,11 @@
+{
+  "name": "rate-your-day-telegram-bot",
+  "version": "10.9.2",
+  "description": "Telegram Bot that will ask you to rate your day from 0 to 10. You can also add description and reasoning for the rating you chose. All ratings will be stored in the database and can be accessed through the bot menu in oder to list all your responses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vankerok",
+  "license": "ISC"
+}
